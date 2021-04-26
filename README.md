@@ -1,1 +1,3 @@
 # getinfo_twitch
+![start and run](img/miniatura.png)
+Turning on modules...
