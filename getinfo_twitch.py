@@ -1,9 +1,7 @@
 '''
-    Description:
-    Get info of Twitch channel with python.
-
-    Author: AlejandroV
-    Version: 1.0
+    Description: Get info of Twitch channel with python.
+    Author: aulerjbailey
+    Version: 1.0.0
     Video: https://youtu.be/yUS4Zf1FLcs
 '''
 from twitch import TwitchClient
